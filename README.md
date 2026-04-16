@@ -48,7 +48,7 @@ Use slicers to filter data
 Explore charts and KPIs for insights
 📷 Dashboard Preview
 
-(Add a screenshot of your dashboard here)
+
 
 💡 Future Improvements
 Add Power BI version of dashboard
