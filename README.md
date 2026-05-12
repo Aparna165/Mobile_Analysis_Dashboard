@@ -1,4 +1,4 @@
-📊 Mobile Sales Dashboard (Excel Project)
+📊 Mobile Sales Analysis Dashboard (Excel Project)
 
 📌 Project Overview
 
